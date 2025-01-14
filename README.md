@@ -16,7 +16,6 @@ Just a Computer science engineer exploring the fundamentals.
 ###
 [![Listen on Spotify](https://img.shields.io/badge/Listen%20on%20Spotify-Track-blue)](https://open.spotify.com/track/3s7MCdXyWmwjdcWh7GWXas)
 
-)
 ###
 
 <img src="https://raw.githubusercontent.com/adityjoshi/adityjoshi/output/snake.svg" alt="Snake animation" />

@@ -1,4 +1,4 @@
-![alt README header](https://github.com/pandeprakhar/pandeprakhar/blob/main/github.header.png)
+<img src="https://github.com/pandeprakhar/pandeprakhar/blob/main/github.header.png" alt="alt README header" width="600" height="200">
 ###
 
 Just a Computer science engineer exploring the fundamentals.

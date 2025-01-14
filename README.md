@@ -1,4 +1,4 @@
-![alt README header](https://github.com/adityjoshi/adityjoshi/blob/main/header.png)
+![alt README header](https://github.com/pandeprakhar/pandeprakhar/blob/main/github.header.png)
 ###
 
 Just a Computer science engineer exploring the fundamentals.

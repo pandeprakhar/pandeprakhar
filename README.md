@@ -1,5 +1,4 @@
 <img src="https://github.com/pandeprakhar/pandeprakhar/blob/main/github.header.png" alt="alt README header" width="1000" height="300">
-###
 
 Just a Computer science engineer exploring the fundamentals.
 [Connect](www.linkedin.com/in/prakharpande).
@@ -15,7 +14,8 @@ Just a Computer science engineer exploring the fundamentals.
 
 
 ###
-![Listen on Spotify](https://open.spotify.com/track/3s7MCdXyWmwjdcWh7GWXas)
+[![Listen on Spotify](https://img.shields.io/badge/Listen%20on%20Spotify-Track-blue)](https://open.spotify.com/track/3s7MCdXyWmwjdcWh7GWXas)
+
 )
 ###
 

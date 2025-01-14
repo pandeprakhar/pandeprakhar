@@ -1,8 +1,8 @@
-<img src="https://github.com/pandeprakhar/pandeprakhar/blob/main/github.header.png" alt="alt README header" width="1000" height="200">
+<img src="https://github.com/pandeprakhar/pandeprakhar/blob/main/github.header.png" alt="alt README header" width="1000" height="300">
 ###
 
 Just a Computer science engineer exploring the fundamentals.
-[socials](www.linkedin.com/in/prakharpande).
+[Connect](www.linkedin.com/in/prakharpande).
 
 
 <h2 align="left"></h2>
